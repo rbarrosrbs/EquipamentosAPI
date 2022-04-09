@@ -16,7 +16,7 @@ namespace Models
             modelBuilder.Entity<Equipamento>().HasData(new Equipamento()
             {
                 Id = 1,
-                    Nome = "Computador"
+                Nome = "Computador"
             });
         }
     }
